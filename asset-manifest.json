@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-labelimg/static/css/main.db162848.chunk.css",
+    "main.js": "/react-labelimg/static/js/main.3b75c174.chunk.js",
+    "main.js.map": "/react-labelimg/static/js/main.3b75c174.chunk.js.map",
+    "runtime-main.js": "/react-labelimg/static/js/runtime-main.b095027a.js",
+    "runtime-main.js.map": "/react-labelimg/static/js/runtime-main.b095027a.js.map",
+    "static/css/2.5f5f9133.chunk.css": "/react-labelimg/static/css/2.5f5f9133.chunk.css",
+    "static/js/2.fd37fc7d.chunk.js": "/react-labelimg/static/js/2.fd37fc7d.chunk.js",
+    "static/js/2.fd37fc7d.chunk.js.map": "/react-labelimg/static/js/2.fd37fc7d.chunk.js.map",
+    "static/js/3.a6d18d61.chunk.js": "/react-labelimg/static/js/3.a6d18d61.chunk.js",
+    "static/js/3.a6d18d61.chunk.js.map": "/react-labelimg/static/js/3.a6d18d61.chunk.js.map",
+    "index.html": "/react-labelimg/index.html",
+    "static/css/2.5f5f9133.chunk.css.map": "/react-labelimg/static/css/2.5f5f9133.chunk.css.map",
+    "static/css/main.db162848.chunk.css.map": "/react-labelimg/static/css/main.db162848.chunk.css.map",
+    "static/js/2.fd37fc7d.chunk.js.LICENSE.txt": "/react-labelimg/static/js/2.fd37fc7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b095027a.js",
+    "static/css/2.5f5f9133.chunk.css",
+    "static/js/2.fd37fc7d.chunk.js",
+    "static/css/main.db162848.chunk.css",
+    "static/js/main.3b75c174.chunk.js"
+  ]
+}
