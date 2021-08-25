@@ -1,0 +1,58 @@
+@import '~antd/dist/antd.css';
+
+.svg-wrapper {
+  background-color: lightgrey;
+  height: 100%;
+}
+
+.svg-container {
+  width: 100%;
+  height: 100%;
+  cursor: crosshair;
+}
+
+.file-tool-container {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.file-tool-container > li span {
+  display: block;
+  padding: 1em 1em;
+  text-align: center;
+}
+.file-tool-container > li span:hover {
+  background-color: #1890ff;
+  color: white;
+  cursor: pointer;
+}
+
+.ant-collapse-content-box {
+  padding: 0 !important;
+}
+
+.ant-collapse-header {
+  background-color: #1890ff !important;
+  color: white !important;
+}
+
+.ant-collapse-borderless > .ant-collapse-item {
+  border-bottom: 0px solid #d9d9d9 !important;
+}
+
+.ant-collapse-extra:hover {
+  cursor: pointer;
+}
+
+.file-item-name,
+.label-item-name {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.file-item-name:hover,
+.label-item-name:hover {
+  color: #ff4d4f;
+  cursor: pointer;
+}
