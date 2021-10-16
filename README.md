@@ -6,4 +6,6 @@ It currently supports:
 - Rectangle annotation
 - Polygon annotation
 
-You can see a quick demo [here](https://dodosoya.github.io/react-labelimg).
+You can see a live demo [here](https://dodosoya.github.io/react-labelimg).
+
+![image](https://github.com/dodosoya/react-labelimg/blob/main/demo.gif?raw=true)
